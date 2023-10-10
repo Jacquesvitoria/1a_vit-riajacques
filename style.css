@@ -25,12 +25,18 @@
     font-weight: lighter;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
+
+  nav a:hover {
+    color: aqua;
+    text-decoration: underline;
+  }
   
   
   nav li {
       display: inline;
       padding: 20px;
   }
+
   
   
   #banner-topo {
